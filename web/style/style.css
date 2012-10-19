@@ -1,0 +1,16 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+}
+li.question
+{
+    list-style-type: decimal;
+}
+
+li.answer
+{
+    list-style-type: upper-alpha;
+}
